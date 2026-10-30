@@ -1,0 +1,58 @@
+{
+    "S001": {
+        "name": "Aarav Sharma",
+        "age": 25,
+        "course": "Web Development",
+        "marks": 92,
+        "email": "aarav12@example.com"
+    },
+    "S002": {
+        "name": "Diya Patel",
+        "age": 21,
+        "email": "diya.patel@example.com",
+        "course": "Data Science",
+        "marks": 85
+    },
+    "S003": {
+        "name": "Rohan Verma",
+        "age": 19,
+        "course": "Python",
+        "marks": 50,
+        "email": "rohan.verma@example.com"
+    },
+    "S004": {
+        "name": "Ananya Iyer",
+        "age": 22,
+        "email": "ananya.iyer@example.com",
+        "course": "Web Development",
+        "marks": 78
+    },
+    "S005": {
+        "name": "Kabir Singh",
+        "age": 20,
+        "email": "kabir.singh@example.com",
+        "course": "Data Science",
+        "marks": 54
+    },
+    "S006": {
+        "name": "Mou",
+        "age": 21,
+        "course": "Web Development",
+        "marks": 100,
+        "email": "mou@example.com"
+    },
+    "S007": {
+        "name": "Akash",
+        "age": 20,
+        "course": "FastAPI",
+        "marks": 75,
+        "email": "Akash@gmail.com"
+    },
+    "S008": {
+        "name": "Tanu",
+        "age": 19,
+        "course": "GEN AI",
+        "marks": 95,
+        "email": "tanu@gmail.com"
+    }
+}
