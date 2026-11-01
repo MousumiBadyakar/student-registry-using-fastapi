@@ -346,7 +346,7 @@ def flash(msg: str, icon: str = "✅"):
 
 
 # ═══════════════════════════════ Session state ═══════════════════════════════
-for k, v in {"api_base": "http://127.0.0.1:8000", "last_req": None, "log": [], "page": 1,
+for k, v in {"api_base": "https://student-registry-using-fastapi.onrender.com", "last_req": None, "log": [], "page": 1,
              "focus_id": None, "view_sig": None}.items():
     st.session_state.setdefault(k, v)
 
