@@ -5,7 +5,6 @@ A full-stack Student Registry application built using **FastAPI, Python, Streaml
 ## 🚀 Live Demo
 
 - **Streamlit Application:** [Student Registry](https://student-registry-using-fastapi-ztsmwhdqtfbdrqczqitdfq.streamlit.app/)
-- **FastAPI Backend:** [Render API](https://student-registry-using-fastapi.onrender.com)
 - **API Documentation:** [Swagger UI](https://student-registry-using-fastapi.onrender.com/docs)
 
 ## ✨ Features
